@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selector and class and id</title>
+    
+    <style>
+        /* <!-- this is element selector --> */
+        p {
+            color: beige;
+        }
+        
+        
+        /* <!-- this is id selector for specific line area--> */
+        #firstpara {
+            color: darkgreen;
+        }
+        
+        /* <!-- this is class selector for multiple elements --> */
+
+        .redbg {
+            color: chocolate;
+            border-style: dotted;
+
+        }
+
+        .blueclr {
+            color: rgb(113 113 159);
+
+            border-style: groove;
+            border-width: 2px;
+            border-color: #fffaf3;
+        }
+/* this is group selector for combining two differe attribute with same property */
+        span,
+        footer {
+            color: #5480e5;
+            background-color: #e2f1f3;
+        }
+    </style>
+
+
+    
+</head>
+
+<body>
+    <p id="firstpara" class="blueclr">this is a simple paragraph</p>
+    <p class="blueclr"> this is second simple paragraph</p>
+    <div>
+        <p class="blueclr"> this is third simple paragraph</p>
+    </div>
+    <span>
+        this is different attribute
+    </span>
+    <footer>
+        this is known as footer
+    </footer>
+</body>
+
+</html>

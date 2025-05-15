@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> display box postions</title>
+    <style>
+
+        .container{
+            width: 1200px;
+            height: 1200px;
+    background-color: rgb(210, 177, 241);
+        }
+        .mybox{
+            border-style: solid;
+           width: 200px;
+           height: 200px;
+           border-color: chocolate;
+           display: inline-block;
+       
+
+        }
+        #boxprop012{
+            /* absolute for parent reference
+            position: absolute;
+            top: 25px;
+            left: 20px; */
+            /* position: fixed;
+           border: px; */
+           position: sticky;
+           top:  12px;
+        }
+           
+    </style>
+   
+</head>
+<body>
+    <div class="container">
+        <div class="mybox" id="boxprop01"></div>
+        <div class="mybox" id="boxprop012"></div>
+        <div class="mybox" id="boxprop013"></div>
+        <div class="mybox" id="boxprop014"></div>
+
+    </div>
+</body>
+</html>

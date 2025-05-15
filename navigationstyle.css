@@ -1,0 +1,40 @@
+.design {
+
+    background-color: #b177a4;
+    border-radius: 36px;
+}
+
+.design ul {
+    overflow: auto;
+}
+
+.design li {
+    float: left;
+    list-style: none;
+    padding: 15px;
+}
+
+.search {
+    float: right;
+    margin: 9px 41px;
+    float: right;
+    padding: auto;
+    padding: 1px 16px;
+    /* border-style: solid;
+    border-color: hsl(233deg 76% 44%); */
+    border-radius: 17px;
+}
+
+
+
+
+.design li a {
+    padding: 1px 12px;
+    text-decoration: none;
+    color: black;
+    border-radius: 13px;
+#e5c594;
+}
+.design li a:hover{
+    color: rgb(14, 124, 187);
+}

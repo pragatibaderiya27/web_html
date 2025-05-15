@@ -1,0 +1,128 @@
+* {
+    box-sizing: border-box;
+}
+
+#myeditedp {
+    position: absolute;
+    /* position: absolute; */
+    margin: -127px -1px;
+    text-align: center;
+    animation: auto;
+    background-color: #e7d9dc;
+    border-radius: 13px;
+
+    flex: auto;
+    border-radius: 27xp;
+
+}
+#myeditedp01 {
+    position: absolute;
+    /* position: absolute; */
+    margin: -136px -209px;
+    text-align: center;
+    animation: auto;
+    background-color: #e7d9dc;
+    border-radius: 13px;
+
+    flex: auto;
+    border-radius: 27xp;
+
+}
+
+.edits {
+    transition: all 0.3s ease;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    background: linear-gradient(0deg, rgb(207 207 207) 0%, rgb(152 125 161) 100%);
+    width: 92px;
+    height: 28px;
+    line-height: 27px;
+    padding: -7px 24px;
+    border-radius: 14px;
+
+    padding: 0;
+    border: none;
+}
+
+.conteiner {
+    flex-direction: column;
+    width: 1000px;
+    height: 1000px;
+    border-style: solid;
+}
+
+.mybut {
+    border-style: solid;
+    background-color: bisque;
+    box-sizing: border-box;
+    display: inline-block;
+    width: 31%;
+    height: auto;
+    flex-direction: column;
+
+
+}
+
+#more,
+#more01,
+#more02,
+#more03 {
+    display: none;
+    /* display: inline-block; */
+}
+
+#dots01,
+#dots02,
+#dots03 {
+    display: none;
+}
+
+#divids {
+    display: inline-block;
+}
+
+#firstbut,
+#secondbut {
+    float: left;
+    flex-wrap: wrap;
+    margin: 3px 8px;
+    padding: 0px 99px;
+    text-align: center;
+}
+
+#thirdbox {
+    float: left;
+    flex-wrap: wrap;
+    margin: 1px 6px;
+    padding: 0px 99px;
+    text-align: center;
+}
+.edits01 {
+    transition: all 0.3s ease;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    background: linear-gradient(0deg, rgb(207 207 207) 0%, rgb(152 125 161) 100%);
+    width: 92px;
+    height: 28px;
+    line-height: 27px;
+    padding: -7px 24px;
+    border-radius: 14px;
+
+    padding: 0;
+    border: none;
+}
+.swiper-container {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    background-size: cover;
+    background-position: center;
+    /* Customize the slide appearance */
+  }
+  

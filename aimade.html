@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+    <link rel="stylesheet" href="/aimadestyle.css">
+    <style>
+        /* Reset default styles */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff;
+        }
+
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        nav li {
+            margin: 0 10px;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        nav a:hover {
+            color: #666;
+        }
+
+        .boxprop {
+            width: 33.33%;
+            margin-bottom: 20px;
+            padding: 10px;
+            text-align: center;
+            background-color: #f1f5f3;
+            border-radius: 5px;
+        }
+
+        .boxprop p {
+            margin-top: 20px;
+        }
+
+        .boxprop .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #b9dff1;
+            color: #ff5514;
+            border: 3px solid #ff5514;
+            border-radius: 20px;
+            text-decoration: none;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        .boxprop .btn:hover {
+            background-color: #ff5514;
+            color: #fff;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+        }
+
+        .footer ul {
+            list-style: none;
+            margin-bottom: 10px;
+        }
+
+        .footer ul li {
+            display: inline-block;
+            margin-right: 10px;
+        }
+
+        .footer ul li a {
+            color: #666;
+            transition: color 0.3s ease;
+        }
+
+        .footer ul li a:hover {
+            color: #333;
+        }
+
+        .chatbox {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            width: 100px;
+            height: 50px;
+            background-color: #3838bd;
+            border-radius: 8px;
+            text-align: center;
+            line-height: 50px;
+            color: #fff;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h3>vlogs</h3>
+        <hr>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Login</a></li>
+                <li><a href="#">About us</a></li>
+                <li><a href="#">Contact us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        <div class="boxprop">
+            <h2>Title 1</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eleifend lacus eget laoreet commodo.
+                Fusce bibendum, quam et pulvinar fermentum, tortor justo vehicula neque, a consectetur felis turpis at
+                leo.</p>
+            <a class="btn" href="#">Read More</a>
+        </div>
+
+        <div class="boxprop">
+            <h2>Title 2</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eleifend lacus eget laoreet commodo.
+                Fusce bibendum, quam et pulvinar fermentum, tortor justo vehicula neque, a consectetur felis turpis at
+                leo.</p>
+            <a class="btn" href="#">Read More</a>
+        </div>
+
+        <div class="boxprop">
+            <h2>Title 3</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eleifend lacus eget laoreet commodo.
+                Fusce bibendum, quam et pulvinar fermentum, tortor justo vehicula neque, a consectetur felis turpis at
+                leo.</p>
+            <a class="btn" href="#">Read More</a>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <ul>
+            <li><a href="#">Terms of Service</a></li>
+            <li><a href="#">Privacy Policy</a></li>
+            <li><a href="#">Cookie Policy</a></li>
+        </ul>
+        <p>&copy; 2023 Vlogs. All rights reserved.</p>
+    </footer>
+
+    <a href="#" class="chatbox">Chat</a>
+</body>
+
+</html>

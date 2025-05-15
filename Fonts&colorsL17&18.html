@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@200&family=Pacifico&display=swap"
+        rel="stylesheet">
+    <style>
+        p {
+            font-family: 'Pacifico', cursive;
+            font-size: 33px;
+            line-height: 1.2em
+        }
+
+        span {
+            font-weight: normal;
+            font-style: oblique;
+            color: darkgray;
+        }
+
+        .myfont {
+            color: rgb(121, 94, 8);
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: lighter;
+            line-height: 2.5em;
+
+        }
+
+        .group {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 25px;
+        }
+
+        #firstcolor {
+            color: coral;
+            /* color by name*/
+        }
+
+        #secondcolor {
+            color: rgb(0, 154, 0);
+            /*here rgb ()red blue gree value from 0 to 255 and we can select any color combination by givin value of (r,g,b)=0 to 255 */
+        }
+
+        #thirdcolor {
+            color: #d91deb;
+            /* here ffffff is hexadecimal convertion of rgb range we can pick in form of hexadec and color will be same but in diff forms*/
+        }
+
+        /*use color hex website for color name in rgb or hexA*/
+    </style>
+
+</head>
+
+<body>
+    <h3> we are here for testing fonts and their formats lecture 17</h3>
+    <p>
+        Here is my first font and lets see how it will look on my <span> website?</span>
+    </p>
+    <p class="myfont">
+        Hello this is another paragraph as i want to experiments as much as possible
+    </p>
+    <h2> this is for lecture 18 </h2>
+    <h2>My first color by name</h2>
+    <p id="firstcolor" class="group">
+        Here is my first normal color.
+    </p>
+    <h2>My second color by rgb value rgb(0,0,0)</h2>
+    <p id="secondcolor" class="group">
+        Here is my second rgb color.
+    </p>
+    <h2>My third color by hexa value #ffffff</h2>
+    <p id="thirdcolor" class="group">
+        Here is my third hexadecimal color.
+    </p>
+</body>
+
+</html>

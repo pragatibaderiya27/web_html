@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .btn {
+            border-style: solid;
+            border-color: black;
+
+        }
+    </style>
+</head>
+<h4> how to use space by using HTML Entites </h4>
+
+<body>
+    <p>
+        <style>
+            p {
+                border-style: solid;
+                border-color: cornflowerblue;
+                border-width: 3px;
+            }
+        </style> this is a paragraph
+    </p>
+    <p>
+        <style>
+            p {
+                border-style: solid;
+                border-color: rgb(115, 38, 160);
+                border-width: 3px;
+            }
+        </style> this is also a &nbsp; &nbsp; &nbsp; &nbsp; paragraph with 4 space
+    </p>
+    <p> this is wriiten like this &lt;p &gt;</p>
+    <p> this attherate written like this &commat;</p>
+    <p> this is wriiten like this &Upsi;</p>
+    <p> this is wriiten like this &Jcy;</p>
+    <p> emepty char written like this &Tab; </p>
+    <button class="btn" onclick="myname()"> click here
+
+    </button>
+    <p id="button"> 
+        &nbsp;
+        <script>
+            let string = "here is my name "
+        </script>
+    </p>
+
+    <script>
+
+        var name = 'pragtai';
+        var collage = 'SJITM';
+        var age = '29';
+        var str = "click for more"
+        console.log(name + collage + age);
+        // address.length=Text.length
+        var position = str.indexOf('or');
+        console.log(position);
+        var position = str.lastIndexOf('or');
+        console.log(position);
+
+        var substr = str.slice(1, -1);
+        console.log(substr);
+        //    it can take negative position too
+        var substr = str.substring(1, 6);
+        console.log(substr);
+        var replace = str.replace('click', 'dont click');
+        console.log(replace);
+        var newword = str.concat('newwords');
+        console.log(newword)
+        var str01 = "hello my self pragatii"
+        //    for postion of kth word in any string 
+        var char = str01.charAt(04);
+
+        console.log(char)
+
+        function myname() {
+
+            let text = document.getElementById("button").innerHTML;
+            document.getElementById("button").innerHTML =
+            text.concat(' pragati baderiya')
+                
+
+
+        }
+
+    //    it can take only positive position 
+    </script>
+
+    <body>
+
+    </body>
+
+</html>
+<!-- here p is working as identifiers so any different style will lead to both p and last written style will be picked -->
+</body>
+
+</html>

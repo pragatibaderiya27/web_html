@@ -1,0 +1,383 @@
+1
+00:00:12,350 --> 00:00:13,460
+Hi, everyone.
+
+2
+00:00:13,490 --> 00:00:21,270
+Welcome to your fast radio, but I wouldn't be talking about the v.C interface of Adobe Illustrator.
+
+3
+00:00:22,070 --> 00:00:22,390
+Right.
+
+4
+00:00:22,790 --> 00:00:27,380
+So Venu forced open your software.
+
+5
+00:00:27,470 --> 00:00:28,640
+This is the screen.
+
+6
+00:00:28,640 --> 00:00:30,020
+You would be welcome to it.
+
+7
+00:00:31,390 --> 00:00:38,000
+So the first thing you actually notice after welcome to Illustrator, it seems that you have to create
+
+8
+00:00:38,090 --> 00:00:38,800
+a new file.
+
+9
+00:00:40,640 --> 00:00:40,870
+Right.
+
+10
+00:00:41,930 --> 00:00:45,530
+So what this means is that you have to give dimensions.
+
+11
+00:00:45,530 --> 00:00:53,610
+All feel in your document on your document is your blank white page where you will be designing, audit
+
+12
+00:00:53,710 --> 00:00:55,760
+it all your illustrations.
+
+13
+00:00:56,150 --> 00:01:04,310
+Now, these illustrations can be either be used on your shots or your Mumbai Garbo's or on Mudd's or
+
+14
+00:01:04,310 --> 00:01:12,140
+even designed logos for your brand and even you and you when design GUI, log beaches, magazine, beaches,
+
+15
+00:01:12,140 --> 00:01:13,510
+bookstores, etc..
+
+16
+00:01:14,160 --> 00:01:14,550
+Right.
+
+17
+00:01:15,740 --> 00:01:22,610
+So if you need to choose from one of these documents right here, which are already being preloaded,
+
+18
+00:01:23,210 --> 00:01:24,650
+it can be off any size.
+
+19
+00:01:25,370 --> 00:01:27,860
+It can be a size of a postcard.
+
+20
+00:01:28,630 --> 00:01:36,170
+And even if you want to design and illustrate Dover, you can view on your phone the document can be
+
+21
+00:01:36,170 --> 00:01:37,290
+of this size as well.
+
+22
+00:01:38,270 --> 00:01:46,100
+But in case, if you want to also customize your document, even Fordo, you usually go to create new.
+
+23
+00:01:48,180 --> 00:01:57,680
+So as you can see right here, I do realize estate provides a much, much bigger good idea of these
+
+24
+00:01:57,680 --> 00:01:59,200
+documents right here.
+
+25
+00:02:00,230 --> 00:02:04,270
+So feel free to choose any of these documents ises as you please.
+
+26
+00:02:05,300 --> 00:02:08,940
+Feel free to even explore more options from Hill.
+
+27
+00:02:10,040 --> 00:02:18,350
+So the size is getting V.T. from any size, do any good people size, A4 size, Aletta letterhead,
+
+28
+00:02:18,470 --> 00:02:19,630
+tabloid format.
+
+29
+00:02:21,020 --> 00:02:22,340
+It's quite a lot.
+
+30
+00:02:23,650 --> 00:02:26,140
+But for this, where do I will be sticking to?
+
+31
+00:02:27,890 --> 00:02:36,380
+I will be sticking to this standard A4 size document, which is twenty one centimeters in weight and
+
+32
+00:02:36,380 --> 00:02:39,140
+twenty nine point seven centimeters in height.
+
+33
+00:02:39,710 --> 00:02:45,710
+So by default, in my laptop the unit of measurement is centimeters.
+
+34
+00:02:46,970 --> 00:02:49,660
+So in your screen it can be initially different.
+
+35
+00:02:49,670 --> 00:02:57,380
+Does what it might mean because all fixes or even inches it can maybe.
+
+36
+00:02:58,520 --> 00:03:02,230
+Okay here are instead of untied dude.
+
+37
+00:03:02,870 --> 00:03:05,390
+Let's also give a name to our document.
+
+38
+00:03:06,110 --> 00:03:11,060
+So let's Niemi Elias creation.
+
+39
+00:03:14,150 --> 00:03:20,690
+And here are the orientation part is basically how you want to use your document.
+
+40
+00:03:21,320 --> 00:03:25,820
+Do you want to do be in portrait format or do you want to do being landscape.
+
+41
+00:03:26,780 --> 00:03:27,500
+So it's up to you.
+
+42
+00:03:29,990 --> 00:03:37,260
+And over here are the art boards that sees and we are in the art board finder.
+
+43
+00:03:37,310 --> 00:03:37,610
+Right.
+
+44
+00:03:38,870 --> 00:03:45,130
+So it sees one that means only one document to a view or will be open.
+
+45
+00:03:46,460 --> 00:03:50,570
+When you only one document will be open for you to design.
+
+46
+00:03:50,840 --> 00:03:56,900
+I took a course, but you could always increase the number of outboards your.
+
+47
+00:03:59,270 --> 00:04:01,200
+Or it district to one.
+
+48
+00:04:02,510 --> 00:04:03,820
+And then we click on Clear.
+
+49
+00:04:07,590 --> 00:04:08,520
+And there you go.
+
+50
+00:04:09,150 --> 00:04:17,340
+This white Blankley's that you'll see is your documentary and you will be designing orda all your illustrations.
+
+51
+00:04:18,940 --> 00:04:25,560
+But in case, if you guys are unable to see all these that idea, it's probably because in short, in
+
+52
+00:04:25,560 --> 00:04:27,640
+this essential classic option at all.
+
+53
+00:04:28,340 --> 00:04:28,580
+Right.
+
+54
+00:04:28,830 --> 00:04:35,410
+So doing what if you aren't just click on this dropdown box below and click essentially classic.
+
+55
+00:04:35,990 --> 00:04:40,560
+So once you do that, all the tools you see right here will be shown.
+
+56
+00:04:41,670 --> 00:04:41,910
+OK.
+
+57
+00:04:42,710 --> 00:04:43,680
+So now let's begin.
+
+58
+00:04:44,700 --> 00:04:52,500
+So on your left hand side of your screen, all these tools you see right here are the mean do is that
+
+59
+00:04:52,500 --> 00:04:53,520
+we designed those.
+
+60
+00:04:53,520 --> 00:04:55,180
+You was 95 percent off.
+
+61
+00:04:56,500 --> 00:04:56,760
+Right.
+
+62
+00:04:57,210 --> 00:05:04,590
+So if you've seen those squawky designs up on finches, you've you seen mandalas or those complicated
+
+63
+00:05:04,820 --> 00:05:09,060
+gaited designs are used from these dudes.
+
+64
+00:05:09,240 --> 00:05:10,440
+Most of the times.
+
+65
+00:05:11,170 --> 00:05:11,410
+Right.
+
+66
+00:05:12,210 --> 00:05:19,350
+So moving ahead on the doc menu over here are all the other two words.
+
+67
+00:05:19,370 --> 00:05:19,970
+Red.
+
+68
+00:05:22,230 --> 00:05:22,430
+Right.
+
+69
+00:05:22,440 --> 00:05:30,270
+You can use to either to to your shape or if you want to add a particular type of effect you can to
+
+70
+00:05:30,480 --> 00:05:32,690
+choose any of these effects from your.
+
+71
+00:05:33,810 --> 00:05:37,080
+So if you want to change stuff fell off your collar.
+
+72
+00:05:38,100 --> 00:05:43,950
+So if you want to change the feel of your sheep, you can choose from these with ideal variety of colors,
+
+73
+00:05:43,960 --> 00:05:44,630
+a tail.
+
+74
+00:05:46,410 --> 00:05:48,000
+So this is the stroke.
+
+75
+00:05:48,930 --> 00:05:52,200
+The stroke is basically the outline of your sheet.
+
+76
+00:05:53,520 --> 00:05:53,910
+Right.
+
+77
+00:05:54,390 --> 00:06:02,010
+And over here are the short reed determines the intensity of your outline.
+
+78
+00:06:03,580 --> 00:06:08,990
+So by default, it's one that means the outline of your sheep will be extremely eaten.
+
+79
+00:06:09,760 --> 00:06:15,190
+So the higher the value of your stalk meat, the more tick I outline is going to be.
+
+80
+00:06:16,720 --> 00:06:17,140
+Right.
+
+81
+00:06:18,990 --> 00:06:22,060
+I know where you are on your right hand side of your screen.
+
+82
+00:06:22,120 --> 00:06:22,440
+Awesome.
+
+83
+00:06:22,480 --> 00:06:30,370
+Additional two words which are equally important for us designers to create all that illustrations.
+
+84
+00:06:31,120 --> 00:06:31,500
+Right.
+
+85
+00:06:31,930 --> 00:06:37,480
+So I will be discussing about these two with more in depth in the other videos as well.
+
+86
+00:06:39,030 --> 00:06:46,450
+But for now, as you can see, an audio design and illustration, you can control the John SPAD and
+
+87
+00:06:46,450 --> 00:06:53,260
+see from yo, you can decide how you going decide the opacity from your controller.
+
+88
+00:06:55,150 --> 00:07:01,030
+You can add different kinds of some votes from your even and even choose the type of brush size you
+
+89
+00:07:01,030 --> 00:07:02,740
+want from the from the brush to.
+
+90
+00:07:02,750 --> 00:07:02,980
+Right.
+
+91
+00:07:04,940 --> 00:07:05,270
+Right.
+
+92
+00:07:06,130 --> 00:07:08,200
+So this was it.
+
+93
+00:07:08,350 --> 00:07:15,240
+This was like the most basic introduction of the interface.
+
+94
+00:07:16,270 --> 00:07:18,640
+And that's about it.
+
+95
+00:07:19,390 --> 00:07:22,340
+So thank you for watching.
+
+96
+00:07:22,420 --> 00:07:24,730
+And I will see you again very soon.
